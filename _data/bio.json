@@ -6,10 +6,10 @@
     "email": "tcm728@gmail.com",
     "phone": "808-333-4444",
     "website": "https://ThiagoM728.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "Reliable, solid performer, and detailed oriented recent graduate in Computer Science at Florida Atlantic University looking for full-time entry level positions. Seeking to maximize my Computer Science Degree. Highly motivated to successfully achieve and exceed performance and productivity goals.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "33433",
       "city": "Boca Raton",
       "countryCode": "USA",
       "region": "Florida"
@@ -83,27 +83,28 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Florida Atlantic University, Florida, FL",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2016",
+      "endDate": "2018",
+      "gpa": 3.56"",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "SOUTH FLORIDA CONSTRUCTION GROUP ",
+      "position": "Help Desk Specialist",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Head of network migration solutions team",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintained and serviced computers and phone systems.",
+        "Assisted in system migrations and new installations.",
+        "Oversaw a medium port server’s maintenance."
       ]
     },
     {
