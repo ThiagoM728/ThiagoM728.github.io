@@ -108,15 +108,16 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "MASTEC ADVANCED TECHNOLOGIES",
+      "position": "Lead Field Engineer",
+      "website": "https://www.mastec.com/",
+      "startDate": "2010",
+      "endDate": "2013",
+      "summary": "Participated in the 4G and LTE integration in the South Florida territory",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Installed and programmed GSM and CDMA systems.",
+        "Assembled and serviced job site power plants. (-48vdc and -24vdc)",
+        "Fiber optics integration to cell sites, T1 installation and testing."
       ]
     }
   ],
