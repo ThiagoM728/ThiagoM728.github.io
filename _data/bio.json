@@ -86,7 +86,17 @@
       "studyType": "B.S.",
       "startDate": "2016",
       "endDate": "2018",
-      "gpa": 3.56"",
+      "gpa": "3.56",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Palm Beach State College, Florida, FL",
+      "area": "Associate of Arts with focus on Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "3.79",
       "courses": [
       ]
     }
