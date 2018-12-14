@@ -121,7 +121,7 @@
       ]
     }
   ],
-  "volunteer": [
+  <!---"volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -133,7 +133,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }--->,
     {
       "organization": "",
       "website": "",
