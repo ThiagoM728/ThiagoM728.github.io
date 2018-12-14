@@ -4,7 +4,7 @@
     "label": "Software Developer",
     "picture": "https://ThiagoM728.github.io/images/selfie.jpg",
     "email": "tcm728@gmail.com",
-    "phone": "808-333-4444",
+    "phone": "561-654-9062",
     "website": "https://ThiagoM728.github.io",
     "summary": "Reliable, solid performer, and detailed oriented recent graduate in Computer Science at Florida Atlantic University looking for full-time entry level positions. Seeking to maximize my Computer Science Degree. Highly motivated to successfully achieve and exceed performance and productivity goals.",
     "location": {
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Full-Stack Development",
       "keywords": [
       ]
     }
@@ -66,7 +66,11 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Python",
+        "Flask",
+        "Django",
+        "SQL",
+        "LiteSQL"
       ]
     },
     {
@@ -76,7 +80,6 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
         "TI LaunchPad"
       ]
     }
