@@ -86,7 +86,7 @@
       "studyType": "B.S.",
       "startDate": "2016",
       "endDate": "2018",
-      "gpa": "3.56",
+      "gpa": "3.56 - CUM LAUDE",
       "courses": [
       ]
     },
@@ -96,7 +96,7 @@
       "studyType": "A.A.",
       "startDate": "2013",
       "endDate": "2015",
-      "gpa": "3.79",
+      "gpa": "3.79 - CUM LAUDE",
       "courses": [
       ]
     }
@@ -106,13 +106,26 @@
       "company": "SOUTH FLORIDA CONSTRUCTION GROUP ",
       "position": "Help Desk Specialist",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2016",
+      "startDate": "2015",
+      "endDate": "2017",
       "summary": "Head of network migration solutions team",
       "highlights": [
         "Maintained and serviced computers and phone systems.",
         "Assisted in system migrations and new installations.",
         "Oversaw a medium port server’s maintenance."
+      ]
+    },
+    {
+      "company": "CTIS (Cable Television Installation & Service)",
+      "position": "Lead Field Engineer",
+      "website": "http://www.ctis-inc.com/",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "Comcast contract based installations for bussines clients.",
+      "highlights": [
+        "Installed, serviced and troubleshoot CATV, HSD and CDV systems.",
+        "Quality control and supervision of services.",
+        "Planned and implemented network solutions (cat5e, pubx, alarms)"
       ]
     },
     {
