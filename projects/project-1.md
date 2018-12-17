@@ -15,20 +15,24 @@ summary: An e-commerce web app solution for personal use.
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/store1.png">
-  <img class="ui image" src="../images/store2.png">
-  <img class="ui image" src="../images/store3.png">
-  <img class="ui image" src="../images/store4.png">
 </div>
 
 This project was part of an optional challenge posed by my Python professor in which we were asked to produce a web app for a client that needed an e-commerce solution to list his product with the ability and means for easy expansion as needed. The web app was designed with the requirements of an e-commerce system in mind, as the sole programmer responsible for the system I decide to modularize the program conservatively in order to have the ability to easily expand the project as new client requests came in. 
 
 
-This project was written mainly in python using Flask as the framework and SQLITE for its database. The app features user registration and login forms, shopping cart implementation and a checkout system ready to be linked to a web service.
+This project was developed mainly in python using Flask as the framework and SQLITE for its database. Additionally, the basic UI featured is wrapped with bootstrap using HTML and CSS. The app features user registration and login forms, shopping cart implementation and a checkout system ready to be linked to a web service.
 
 
 You can learn more at the [Youtube Presentation](https://www.youtube.com/watch?v=IiX1-jgtu4s&t=162s).
+
+
 The source code is available at [Github](https://github.com/ThiagoM728/e-commerceWebApp).
 
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/store2.png">
+  <img class="ui image" src="../images/store3.png">
+  <img class="ui image" src="../images/store4.png">
+</div>
 
 
 
