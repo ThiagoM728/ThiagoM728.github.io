@@ -15,6 +15,9 @@ summary: An e-commerce web app solution for personal use.
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/store1.png">
+  <img class="ui image" src="../images/store2.png">
+  <img class="ui image" src="../images/store3.png">
+  <img class="ui image" src="../images/store4.png">
 </div>
 
 This project was part of an optional challenge posed by my Python professor in which we were asked to produce a web app for a client that needed an e-commerce solution to list his product with the ability and means for easy expansion as needed. The web app was designed with the requirements of an e-commerce system in mind, as the sole programmer responsible for the system I decide to modularize the program conservatively in order to have the ability to easily expand the project as new client requests came in. 
