@@ -7,9 +7,9 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Java
+  - GUI
+  - Algorithms
   - GitHub
 summary: A GUI application for calculation and comparisson of cpu scheduling algorithms using Gannt Charts.
 ---
