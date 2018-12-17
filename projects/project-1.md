@@ -1,44 +1,34 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/ecommerce.jpg
+title: E-Commerce Web App
+permalink: projects/E-Commerce Web App
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python3
+  - Flask
+  - SQLite
+summary: An e-commerce web app solution for personal use.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/store1.png">
+  <img class="ui image" src="../images/store2.jpg">
+  <img class="ui image" src="../images/store3.jpg">
+  <img class="ui image" src="../images/store4.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was part of an optional challenge posed by my Python professor in which we were asked to produce a web app for a client that needed an e-commerce solution to list his product with the ability and means for easy expansion as needed. The web app was designed with the requirements of an e-commerce system in mind, as the sole programmer responsible for the system I decide to modularize the program conservatively in order to have the ability to easily expand the project as new client requests came in. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
+This project was written mainly in python using Flask as the framework and SQLITE for its database. The app features user registration and login forms, shopping cart implementation and a checkout system ready to be linked to a web service.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Youtube Presentation](https://www.youtube.com/watch?v=IiX1-jgtu4s&t=162s).
+The source code is available at [Github](https://github.com/ThiagoM728/e-commerceWebApp).
+
 
 
 
