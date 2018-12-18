@@ -1,61 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/webscraper.jpg
+title: IMDB Web Scraper
+permalink: projects/IMDB Web Scraper
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-10-12
 labels:
-  - Lisp
+  - Python
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A IMDB web scrapping program.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/webscraper2.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+As an internet of things enthusiast the topic of web scraping was introduced to me at one of my universities (FAU) hackaton’s, that weekend I sought to try to implement my own web scrapping script. My language of choice was Python since there some great libraries such as urllib to help me get started. Next step was finding the target and so IMDB was chosen simply because they have a rich library and standard format for most of the search results.
 
-To give you a flavor of the game, here is an excerpt from one run:
+My intent was to make a standard template that could be modular enough to easily change scrapping targets and scripts while keeping the framework intact. An open source framework (Scrapy) was chosen for simplicity while deploying multiple apps. The app will scrape for the current top 250 movies in IMDB’s library and save the results to a .JSON file once a request is made. My experience building this app has being insightful and has made me appreciate the possibilities this method has to offer while working on my next projects.
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The source code is available at [Github](https://github.com/ThiagoM728/IMDBwebscraper).
 
