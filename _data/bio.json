@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "software & web development",
+      "name": "software & web development.",
       "keywords": [
       ]
     },
@@ -104,15 +104,15 @@
   "work": [
     {
       "company": "SOUTH FLORIDA CONSTRUCTION GROUP ",
-      "position": "IT Support Specialist",
+      "position": "IT Support Specialist.",
       "website": "http://www.sfcginc.com",
       "startDate": "2015",
       "endDate": "2018",
-      "summary": "Head of network migration solutions team",
+      "summary": "Head of network migration solutions team.",
       "highlights": [
         "Maintained and serviced computers and phone systems.",
         "Assisted in system migrations and new installations.",
-        "Oversaw a medium port server’s maintenance."
+        "Oversaw a medium port server’s maintenance (MySQL and MongoDB)."
       ]
     },
     {
@@ -125,7 +125,7 @@
       "highlights": [
         "Installed, serviced and troubleshoot CATV, HSD and CDV systems.",
         "Quality control and supervision of services.",
-        "Planned and implemented network solutions (cat5e, pubx, alarms)"
+        "Planned and implemented network solutions (cat5e, pubx, alarms)."
       ]
     },
     {
@@ -134,10 +134,10 @@
       "website": "https://www.mastec.com/",
       "startDate": "2010",
       "endDate": "2013",
-      "summary": "Participated in the 4G and LTE integration in the South Florida territory",
+      "summary": "Participated in the 4G and LTE integration in the South Florida territory.",
       "highlights": [
         "Installed and programmed GSM and CDMA systems.",
-        "Assembled and serviced job site power plants. (-48vdc and -24vdc)",
+        "Assembled and serviced job site power plants. (-48vdc and -24vdc).",
         "Fiber optics integration to cell sites, T1 installation and testing."
       ]
     },
@@ -157,7 +157,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Available upon request.",
       "reference": ""
     }
   ]
