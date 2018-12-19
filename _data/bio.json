@@ -65,7 +65,7 @@
         "Flask",
         "Django",
         "SQL",
-        "LiteSQL"
+        "SQLite"
       ]
     },
     {
